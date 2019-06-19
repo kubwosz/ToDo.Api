@@ -5,8 +5,6 @@ the React app was made based on React-Bootstrap library.
 
 ## How to run this app?
 
-## How to run this app?
-
 ### Backend server
 
 #### You will need:
